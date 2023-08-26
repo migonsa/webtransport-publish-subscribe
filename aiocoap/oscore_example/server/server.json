@@ -1,0 +1,4 @@
+{
+  ":hp1": { "oscore": { "contextfile": "/home/detraca/TFM/aiocoap/oscore/server/hp1/" } },
+  ":hs1": { "oscore": { "contextfile": "/home/detraca/TFM/aiocoap/oscore/server/hs1/" } }
+}
